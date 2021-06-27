@@ -20,7 +20,16 @@ USES:
 Ofcourse it can be used as an e-commerce website.Along with that we have added options for service based bookings in the second site(the company's official site)
 A handy easy to use and will be viable to customers. All other detailing that an e-commerce website should have at front end are available.
 
+PROBLEMS FACED
+Overlapping of background images, dark mode button framing, maintaining ideal navbars, compilation of css for image handling was a nightmare for us in making the website responsive.
+And ofcourse the github/git issues right from fatal:error unable to fetch to main branch not pointing to head and deployment delays as well.
+To talk about how we overcame all those bugs is just my constant trial and errors hours of youtube videos to stackoverflow to git --help , we both as a team didn't even leave any space in compromising the effort that we put up for upbuilding this project.
 
+THINGS WE LEARNT:
+1.Handling git/github efficiently.
+2.How to make the code precise and to the point
+3.Using simple things how to make the ui look ideal.
+4. And ofcourse time management remains constant.
 
 REPOSITORY LINK WHERE WE WILL UPDATE OUR SECOND SITE IS AS UNDER:
 https://github.com/Bibs24/web-o-code-former.git WHICH WILL BE LINKED IN THE MAIN WEBSITE BEFORE FINAL SUBMISSION.
