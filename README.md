@@ -31,6 +31,9 @@ THINGS WE LEARNT:
 3.Using simple things how to make the ui look ideal.
 4. And ofcourse time management remains constant.
 
+HOW IT WORKS?
+Upon clicking the link below it takes you to the landing page where it has buttons linked to its e-commerce website and acts accordingly.
+
 
 
 HOW TO RUN THE WEBSITE:
