@@ -806,7 +806,7 @@ dark*/
 }
 
 .newsletter{
-    background:linear-gradient(var(--blue),var(--blue)), url(../images/deal1.jpg) no-repeat;
+    background:linear-gradient(var(--blue),var(--blue)), url(../images1/deal1.jpg) no-repeat;
     background-blend-mode: multiply;
     background-size: cover;
     background-position: center;
