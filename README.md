@@ -31,8 +31,7 @@ THINGS WE LEARNT:
 3.Using simple things how to make the ui look ideal.
 4. And ofcourse time management remains constant.
 
-REPOSITORY LINK WHERE WE WILL UPDATE OUR SECOND SITE IS AS UNDER:
-https://github.com/Bibs24/web-o-code-former.git WHICH WILL BE LINKED IN THE MAIN WEBSITE BEFORE FINAL SUBMISSION.
+
 
 HOW TO RUN THE WEBSITE:
 FOLLOWING IS THE LINK THAT WILL DIRECT YOU TO THE WEBSITE:
