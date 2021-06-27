@@ -6,6 +6,6 @@ Embedded Conquerers
 Functionalities:
 Owl Carousel in header
 JavaScipt is used to make it functional.
-Still, moderation needed!
+Dark and light mode button is created using the stacks.
 
 IMP: Runs in local machine smoothly!
